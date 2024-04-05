@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertorMoedas</string>
+    <string name="quantia_r">Quantia R$</string>
+    <string name="mostrar_gr_fico">Mostrar Gráfico</string>
+    <string name="converter">Converter</string>
+    <string name="limpar">Limpar</string>
+</resources>
